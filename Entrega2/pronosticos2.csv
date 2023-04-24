@@ -1,0 +1,15 @@
+Mariana,Argentina,X, , ,Arabia Saudita,0
+Mariana,Polonia, ,X, ,Mexico,1
+Mariana,Argentina,X, , ,Mexico,2
+Mariana,Arabia Saudita, , ,X,Polonia,3
+Mariana,Argentina,X, , ,Australia,4
+Pedro,Argentina,X, , ,Arabia Saudita,0
+Pedro,Polonia, , ,X,Mexico,1
+Pedro,Argentina,X, , ,Mexico,2
+Pedro,Arabia Saudita, ,X, ,Polonia,3
+Pedro,Argentina, ,X, ,Australia,4
+Matias,Argentina, , ,X,Arabia Saudita,0
+Matias,Polonia, ,X, ,Mexico,1
+Matias,Argentina,X, , ,Mexico,2
+Matias,Arabia Saudita, , ,X,Polonia,3
+Matias,Argentina,X, , ,Australia,4
